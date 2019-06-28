@@ -49,7 +49,7 @@ To be published.
 * Lessons learnt building forecasting system
   * Building large scale forecasting systems
   * Developing Deep Autoregressive Network ([DeepAR](https://arxiv.org/abs/1704.04110)) in [AWS Sagemaker](https://aws.amazon.com/sagemaker/) and other models in [Amazon Forecast](https://aws.amazon.com/forecast/)
-  * Getting started with Forecasting 
+  * Getting started with Forecasting using [GluonTS](https://gluon-ts.mxnet.io) 
 
 ## Presenters' Bio
 
@@ -89,7 +89,7 @@ Several of the notebooks come from the time series chapter we are writing for [D
   * [Bayesian RNN](./notebooks/RNN-BBB-with-Beer-Forecasting.ipynb)
   * CNN-based models
 * [Doing Forecasting with DeepAR in AWS SageMaker](https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/deepar_synthetic/deepar_synthetic.ipynb)
-
+* [Building Neural Network Models for Forecasting with GluonTS](https://aws.amazon.com/blogs/machine-learning/creating-neural-time-series-models-with-gluon-time-series/)
 ***
 
 <p align="center">
