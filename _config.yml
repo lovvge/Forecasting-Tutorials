@@ -1,1 +1,6 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
+title: "Classical and Contemporary Approaches to Big Time Series Forecasting"
+description: Tutorial for 2019 ACM SIGMOD
+show_downloads: false
+github:
+  is_project_page: false
