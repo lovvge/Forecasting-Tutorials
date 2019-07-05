@@ -16,8 +16,7 @@ Time series forecasting is a key ingredient in the automation and optimization o
   * [Tim Januschowski](http://www.januschowski.de/tim/) (AWS AI Labs)
   * [Yuyang (Bernie) Wang](http://www.mit.edu/~ywang02/) (AWS AI Labs)
 
-## Slides
-To be published.
+## Slides [[PDF](https://www.dropbox.com/s/fob700v6a6xyt4m/fcst-tutorial-sigmod.pdf?dl=0)]
 
 ## Cite [[PDF](https://dl.acm.org/citation.cfm?doid=3299869.3314033)]
 ```
